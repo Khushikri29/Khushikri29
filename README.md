@@ -1,84 +1,99 @@
-<h1 align="center">Hi 👋, I'm Khushi Kumari</h1>
-<h3 align="center">🚀 AI Enthusiast | ML Developer | IoT Innovator | React Learner</h3>
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Khushi+Kumari;AI+%7C+ML+Researcher;Startup+Enthusiast;Building+Impactful+Tech;IoT+Innovator&center=true&width=500&height=50">
+</p>
 
 ---
 
-## 🌸 About Me
-
-- 🎓 CSE Student passionate about **Artificial Intelligence & Machine Learning**
-- 🤖 Working on **Crop Recommendation & Disease Prediction ML Models**
-- 🌐 Building Web Apps using **React + Vite**
-- 📊 Interested in **Data Science, Deep Learning & Research**
-- 💡 Love solving real-world problems through technology
-- ✍️ Writing research papers & building smart IoT systems
-- 🎨 Exploring UI/UX & Video Editing
+<h2 align="center">Engineering Intelligence into Real-World Solutions</h2>
 
 ---
 
-## 🛠️ Tech Stack
+## 👩‍🔬 Research Interests
 
-### 👩‍💻 Programming Languages
-- Python 🐍
-- C / C++
-- JavaScript
-- SQL
-
-### 🤖 Machine Learning & Data Science
-- Scikit-Learn
-- Pandas
-- NumPy
-- Matplotlib
-- TensorFlow (Basic)
-- Google Colab
-
-### 🌐 Web Development
-- React.js
-- Vite
-- HTML5
-- CSS3
-- Tailwind CSS (Learning)
-
-### 🛠 Tools & Platforms
-- Git & GitHub
-- VS Code
-- Arduino UNO
-- Figma
-- Canva
+- Artificial Intelligence & Machine Learning  
+- Crop Intelligence & Smart Agriculture Systems  
+- Edge Computing & Smart Classrooms  
+- Deep Learning for Social Impact  
+- IoT-based Smart Systems  
+- Human-Centered UI/UX  
 
 ---
 
-## 🚀 Projects
+## 🚀 Current Focus
 
-🔹 Smart Grow – ML-based crop recommendation system  
-🔹 Fake News Detection System  
-🔹 Smart Gas Leakage Detector (Arduino Based)  
-🔹 Quiz Application (Python)  
-🔹 Personal Expense Tracker  
-🔹 Smart Quiz Table (Buzzer System)  
+- 📊 ML-based Crop Recommendation & Disease Prediction  
+- 📑 Writing Research Papers in AI & Semiconductor Domains  
+- 🌱 Building **Smart Grow** – Agri-Tech AI Platform  
+- ⚡ Edge Computing for Smart Classroom Optimization  
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 Technical Stack
 
-![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+**Languages:** Python | C++ | JavaScript | SQL  
+**ML Tools:** Scikit-Learn | Pandas | NumPy | TensorFlow  
+**Web:** React.js | Vite | HTML | CSS  
+**IoT:** Arduino UNO | Sensors | Automation Systems  
+**Design:** Figma | Canva  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+---
+
+## 📈 Academic & Innovation Projects
+
+- Smart Grow – AI Agriculture Recommendation System  
+- Fake News Detection using ML  
+- Smart Quiz Table – Hardware Buzzer System  
+- Gas Leakage Detector using Arduino  
+- Personal Expense & Quiz Applications  
+
+---
+
+## 🏆 Competitive Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME)
+
+---
+
+## 📊 GitHub Analytics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🌍 Founder Mindset
+
+I believe technology should not just be built —  
+it should solve a measurable real-world problem.
+
+Working towards building scalable AI-powered solutions in:
+- Agri-Tech
+- Ed-Tech
+- Intelligent Automation Systems
+
+---
+
+## 👁️ Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 🌐 Portfolio: (Add if you have one)
+📧 your-email@example.com  
+💼 LinkedIn: https://linkedin.com/in/yourprofile  
 
 ---
 
-## 🌟 Quote I Believe In
-
-> "Technology is best when it brings people together and solves real problems."
-
----
-
-⭐️ From [Khushi Kumari](https://github.com/YOUR_USERNAME)
-
+<p align="center">
+  <i>Research. Build. Scale. Impact.</i>
+</p>
