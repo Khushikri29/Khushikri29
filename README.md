@@ -1,16 +1,84 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Khushi Kumari</h1>
+<h3 align="center">🚀 AI Enthusiast | ML Developer | IoT Innovator | React Learner</h3>
 
-<!--
-**Khushikri29/Khushikri29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌸 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 CSE Student passionate about **Artificial Intelligence & Machine Learning**
+- 🤖 Working on **Crop Recommendation & Disease Prediction ML Models**
+- 🌐 Building Web Apps using **React + Vite**
+- 📊 Interested in **Data Science, Deep Learning & Research**
+- 💡 Love solving real-world problems through technology
+- ✍️ Writing research papers & building smart IoT systems
+- 🎨 Exploring UI/UX & Video Editing
+
+---
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Programming Languages
+- Python 🐍
+- C / C++
+- JavaScript
+- SQL
+
+### 🤖 Machine Learning & Data Science
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
+- TensorFlow (Basic)
+- Google Colab
+
+### 🌐 Web Development
+- React.js
+- Vite
+- HTML5
+- CSS3
+- Tailwind CSS (Learning)
+
+### 🛠 Tools & Platforms
+- Git & GitHub
+- VS Code
+- Arduino UNO
+- Figma
+- Canva
+
+---
+
+## 🚀 Projects
+
+🔹 Smart Grow – ML-based crop recommendation system  
+🔹 Fake News Detection System  
+🔹 Smart Gas Leakage Detector (Arduino Based)  
+🔹 Quiz Application (Python)  
+🔹 Personal Expense Tracker  
+🔹 Smart Quiz Table (Buzzer System)  
+
+---
+
+## 📈 GitHub Stats
+
+![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+- 🌐 Portfolio: (Add if you have one)
+
+---
+
+## 🌟 Quote I Believe In
+
+> "Technology is best when it brings people together and solves real problems."
+
+---
+
+⭐️ From [Khushi Kumari](https://github.com/YOUR_USERNAME)
+
