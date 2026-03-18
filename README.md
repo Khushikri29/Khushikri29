@@ -68,9 +68,9 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 🌐 Portfolio: (Add if you have one)
+- 📧 Email: khushikumari201280@gmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/khushi-kumari-56ab83271/)
+- 🌐 Portfolio: 
 
 ---
 
