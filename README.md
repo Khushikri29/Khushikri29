@@ -69,7 +69,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email: khushikumari201280@gmail.com
-- 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/khushi-kumari-56ab83271/)
+- 💼 LinkedIn:(https://www.linkedin.com/in/khushi-kumari-56ab83271/)
 - 🌐 Portfolio: 
 
 ---
@@ -80,5 +80,5 @@
 
 ---
 
-⭐️ From [Khushi Kumari](https://github.com/YOUR_USERNAME)
+⭐️ From [Khushi Kumari](https://github.com/Khushikri29)
 
