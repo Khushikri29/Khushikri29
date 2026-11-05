@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I’m a Computer Science undergraduate focused on building **real-world AI systems** and **scalable full-stack applications**.
+I’m a Computer Science postgraduate focused on building **real-world AI systems** and **scalable full-stack applications**.
 
 My work lies at the intersection of:
 - 🤖 Machine Learning & Data Science  
